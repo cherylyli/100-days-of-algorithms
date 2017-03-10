@@ -1,7 +1,7 @@
 # 100-days-of-algorithms
 
 ### Day 0:
-1. Stock Maximize - given a list of prices for stock prize on consecutive days, you can either buy one stock or sell as many stocks or do nothing on each day; return the max money you can make. 
+1. Stock Maximize - given a list of prices for stock price on consecutive days, you can either buy one stock or sell as many stocks or do nothing on each day; return the max money you can make. 
 https://www.hackerrank.com/challenges/stockmax
 
 2. Binary Tree Paths - given a binary tree, return array of all tree paths. 
@@ -16,3 +16,6 @@ https://www.hackerrank.com/challenges/pairs
 
 5. Integer to English Words - given an integer, return the english word version of it. 
 https://leetcode.com/problems/integer-to-english-words
+
+6. Best time to sell and buy stock - given a list of prices for stock prices on consecutive days, choose one day to buy 1 stock and one day to sell that stock to maximize profit.
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/

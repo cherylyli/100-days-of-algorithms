@@ -42,7 +42,6 @@ class Solution(object):
                 output_str = digits_to_str[hundred] + " Hundred " + output_str
             output_str = output_str.strip()
             
-            print("output: " + output_str)
             output_strs_by_hundred.insert(0,output_str)
         
         output = output_strs_by_hundred[0]
