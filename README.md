@@ -13,3 +13,6 @@ https://www.hackerrank.com/challenges/connected-cell-in-a-grid
 
 4. Pairs - give a list of unique numbers and a difference, return number of pairs that is different by the difference.
 https://www.hackerrank.com/challenges/pairs
+
+5. Integer to English Words - given an integer, return the english word version of it. 
+https://leetcode.com/problems/integer-to-english-words

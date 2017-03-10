@@ -1,3 +1,6 @@
+# may be able to optimize better, need to think more
+
+
 def get_untraversed_neighbors(cell, region, matrix, untraversed, traversed):
     """
         input: a cell, a region array, which contains all cells that are in this region, and the bounds m & n

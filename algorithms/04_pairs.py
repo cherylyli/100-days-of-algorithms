@@ -1,3 +1,6 @@
+# Solved in ~5 min
+
+
 #!/usr/bin/py
 # Head ends here
 def pairs(a,k):

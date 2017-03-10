@@ -1,3 +1,7 @@
+# was difficult due to very large inputs
+# may be able to optimize, but perhaps with a different strategy
+
+
 #!/bin/python3
 
 t = int(input().strip())

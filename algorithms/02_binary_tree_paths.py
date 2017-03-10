@@ -1,3 +1,6 @@
+# pretty simple, done in ~10 min
+# should aim to solve within 3 min
+
 class Solution(object):
     def binaryTreePaths(self, root):
         """
