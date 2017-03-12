@@ -23,3 +23,7 @@ https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 ### Day 2 [March 11]
 7. Merge Sorted Array - Given two sorted integer arrays nums1 and nums2, merge nums2 into nums1 as one sorted array in place.
 https://leetcode.com/problems/merge-sorted-array/
+
+### Day 3 [March 12]
+8. Multipy Two Sums - Given two strings, each contains chars from "0"-"9" and up to 110 characters long, return their product. Cannot use big int. 
+https://leetcode.com/problems/multiply-strings/
