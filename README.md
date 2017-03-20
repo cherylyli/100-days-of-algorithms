@@ -27,3 +27,10 @@ https://leetcode.com/problems/merge-sorted-array/
 ### Day 3 [March 12]
 8. Multipy Two Sums - Given two strings, each contains chars from "0"-"9" and up to 110 characters long, return their product. Cannot use big int. 
 https://leetcode.com/problems/multiply-strings/
+
+### Day 3.x [March 13-17]
+-- suspended because working on AI project
+
+### Day 4 [March 20]
+9. Valid Palindrome - given a string, find if it's a valid palindrome, ignoring non alphanumeric values.
+https://leetcode.com/problems/valid-palindrome/
