@@ -34,3 +34,11 @@ https://leetcode.com/problems/multiply-strings/
 ### Day 4 [March 20]
 9. Valid Palindrome - given a string, find if it's a valid palindrome, ignoring non alphanumeric values.
 https://leetcode.com/problems/valid-palindrome/
+
+### Day 5 [March 24]
+Practicing SQLs on Leetcode
+10. Combine Two Tables - Write a SQL query for a report that provides name and address for each person in the Person table, regardless if there is an address for each of those people. Address and Person is two separate tables. 
+https://leetcode.com/problems/combine-two-tables
+
+11. Second Highest Salary- an SQL query for the second highest listed salary from an Employees(id, salary) table.
+https://leetcode.com/problems/second-highest-salary
