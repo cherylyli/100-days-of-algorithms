@@ -42,3 +42,8 @@ https://leetcode.com/problems/combine-two-tables
 
 11. Second Highest Salary- an SQL query for the second highest listed salary from an Employees(id, salary) table.
 https://leetcode.com/problems/second-highest-salary
+
+12. Substrings sum - return sum of substrings of an input; eg. input: "1234" output: 1 + 2 + 3 + 4 + 12 + 23 + 34 + 123 + 234 + 1234  mod (10^9 + 7). Input is smaller than 2*10^5. 
+https://www.hackerrank.com/challenges/sam-and-substrings
+
+13. Substrings sum - same problem as #12, different implementation. 
