@@ -47,3 +47,7 @@ https://leetcode.com/problems/second-highest-salary
 https://www.hackerrank.com/challenges/sam-and-substrings
 
 13. Substrings sum - same problem as #12, different implementation. 
+
+### Day 6 [March 30]
+14. Reverse String - as the name suggests
+https://leetcode.com/problems/reverse-string/
