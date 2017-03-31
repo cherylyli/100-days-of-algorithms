@@ -51,3 +51,7 @@ https://www.hackerrank.com/challenges/sam-and-substrings
 ### Day 6 [March 30]
 14. Reverse String - as the name suggests
 https://leetcode.com/problems/reverse-string/
+
+### Day 7 [March 31]
+15. Nim Game - 2 player game where players take turn removing stones from a heap. In each turn 1, 2, or 3 stones may be removed. Return whether or not a player would be able to win, given the number of stones in the heap and that the player always goes first.
+https://leetcode.com/problems/nim-game/
