@@ -55,3 +55,10 @@ https://leetcode.com/problems/reverse-string/
 ### Day 7 [March 31]
 15. Nim Game - 2 player game where players take turn removing stones from a heap. In each turn 1, 2, or 3 stones may be removed. Return whether or not a player would be able to win, given the number of stones in the heap and that the player always goes first.
 https://leetcode.com/problems/nim-game/
+
+### Day 8 [April 2]
+16. Single Number - Given an array of integers, every element appears twice except for one. Find that single one.
+https://leetcode.com/problems/single-number/
+
+17. Add Two Numbers - Given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
+https://leetcode.com/problems/add-two-numbers/
