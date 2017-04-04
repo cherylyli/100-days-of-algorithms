@@ -62,3 +62,14 @@ https://leetcode.com/problems/single-number/
 
 17. Add Two Numbers - Given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
 https://leetcode.com/problems/add-two-numbers/
+
+### Day 9 [April 3]
+18. ZigZag Conversion - Given a string and number of rows, write the string in a zigzag spread across the said number of rows.
+https://leetcode.com/problems/zigzag-conversion/
+
+19. Weighted List - Given a nested list of integers, return the sum of all integers in the list weighted by their depth.
+https://leetcode.com/problems/nested-list-weight-sum/
+
+### Day 10 [April 4]
+20. Insert Delete GetRandom - Implement a data structure that does operations insert, delete, and getRandom in O(1) time.
+https://leetcode.com/problems/insert-delete-getrandom-o1/
