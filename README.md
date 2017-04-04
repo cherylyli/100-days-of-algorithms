@@ -73,3 +73,6 @@ https://leetcode.com/problems/nested-list-weight-sum/
 ### Day 10 [April 4]
 20. Insert Delete GetRandom - Implement a data structure that does operations insert, delete, and getRandom in O(1) time.
 https://leetcode.com/problems/insert-delete-getrandom-o1/
+
+21. Coin Change - How many different ways can you make change for an amount, given a list of coins?
+https://www.hackerrank.com/challenges/coin-change
