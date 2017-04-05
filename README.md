@@ -76,3 +76,7 @@ https://leetcode.com/problems/insert-delete-getrandom-o1/
 
 21. Coin Change - How many different ways can you make change for an amount, given a list of coins?
 https://www.hackerrank.com/challenges/coin-change
+
+### Day 11 [April 5]
+22. Merge Intervals - Given a collection of intervals, merge all overlapping intervals.
+https://leetcode.com/problems/merge-intervals
