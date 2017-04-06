@@ -80,3 +80,14 @@ https://www.hackerrank.com/challenges/coin-change
 ### Day 11 [April 5]
 22. Merge Intervals - Given a collection of intervals, merge all overlapping intervals.
 https://leetcode.com/problems/merge-intervals
+
+23. Group Anagrams - Given an array of strings, group anagrams together.
+https://leetcode.com/problems/anagrams/
+
+### Day 12 [April 16]
+24. Flatten 2D Vector - Implement an iterator to flatten a 2d vector.
+https://leetcode.com/problems/flatten-2d-vector/
+
+25. N puzzel - A* search to solve an N puzzle
+
+
