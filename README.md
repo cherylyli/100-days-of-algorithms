@@ -95,3 +95,10 @@ https://www.hackerrank.com/challenges/n-puzzle
 26. Invert Binary Tree - invert a binary tree
 https://leetcode.com/problems/invert-binary-tree/
 
+27. Find max depth - find max depth of a binary tree
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+28. Same tree - given 2 binary trees, check if they're numerically and structurallyhttps://leetcode.com/problems/same-tree/
+ the same
+
+
