@@ -84,10 +84,14 @@ https://leetcode.com/problems/merge-intervals
 23. Group Anagrams - Given an array of strings, group anagrams together.
 https://leetcode.com/problems/anagrams/
 
-### Day 12 [April 16]
+### Day 12 [April 6]
 24. Flatten 2D Vector - Implement an iterator to flatten a 2d vector.
 https://leetcode.com/problems/flatten-2d-vector/
 
-25. N puzzel - A* search to solve an N puzzle
+25. N puzzle - A* search to solve an N puzzle
+https://www.hackerrank.com/challenges/n-puzzle
 
+### Day 13 [April 8]
+26. Invert Binary Tree - invert a binary tree
+https://leetcode.com/problems/invert-binary-tree/
 
