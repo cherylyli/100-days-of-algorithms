@@ -115,6 +115,7 @@ https://leetcode.com/problems/convert-bst-to-greater-tree/
 32. Find leaves of binary tree - Given a binary tree, collect a tree's nodes as if you were doing this: Collect and remove all leaves, repeat until the tree is empty.
 https://leetcode.com/problems/find-leaves-of-binary-tree/
 
+33. Happy Num - https://leetcode.com/problems/happy-number/
 
 
 
