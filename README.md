@@ -98,7 +98,23 @@ https://leetcode.com/problems/invert-binary-tree/
 27. Find max depth - find max depth of a binary tree
 https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
-28. Same tree - given 2 binary trees, check if they're numerically and structurallyhttps://leetcode.com/problems/same-tree/
- the same
+28. Same tree - given 2 binary trees, check if they're numerically and structurally the same
+https://leetcode.com/problems/same-tree/
+
+### Day 14 [April 10]
+29. Max in a row - You need to find the largest value in each row of a binary tree.
+https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+
+30. Find Bottom Left Tree Value - Given a binary tree, find the leftmost value in the last row of the tree.
+https://leetcode.com/problems/find-bottom-left-tree-value/
+
+31. Convert BST to Greater Tree - Given a Binary Search Tree (BST), convert it to a Greater Tree such that every key of the original BST is changed to the original key plus sum of all keys greater than the original key in BST.
+https://leetcode.com/problems/convert-bst-to-greater-tree/
+
+### Day 15 [April 14]
+32. Find leaves of binary tree - Given a binary tree, collect a tree's nodes as if you were doing this: Collect and remove all leaves, repeat until the tree is empty.
+https://leetcode.com/problems/find-leaves-of-binary-tree/
+
+
 
 
