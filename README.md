@@ -117,5 +117,11 @@ https://leetcode.com/problems/find-leaves-of-binary-tree/
 
 33. Happy Num - https://leetcode.com/problems/happy-number/
 
+### Day 16 [April 16]
+34. Find Lowest Common Ancestor for BST
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 
+### Day 17 [April 17]
+35. Quicksort
+https://www.hackerrank.com/challenges/quicksort3
 
