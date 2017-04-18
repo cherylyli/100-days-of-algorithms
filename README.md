@@ -125,3 +125,9 @@ https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 35. Quicksort
 https://www.hackerrank.com/challenges/quicksort3
 
+### Day 18 [April 18]
+36. First Bad Version - given a number n, and knowing that if a version is bad then subsequent versions are bad, find the bad version with least number of calls to API isBadVersion(n)
+https://leetcode.com/problems/first-bad-version/
+
+
+
