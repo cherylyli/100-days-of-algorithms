@@ -129,5 +129,9 @@ https://www.hackerrank.com/challenges/quicksort3
 36. First Bad Version - given a number n, and knowing that if a version is bad then subsequent versions are bad, find the bad version with least number of calls to API isBadVersion(n)
 https://leetcode.com/problems/first-bad-version/
 
+### Day 19 [May 22]
+37. Binary Search Tree Iterator - call next() and hasNext() to iterate over a binary search tree, in ascending order of the values. Has average O(1) run time and O(h) memory where h is height of tree.
+https://leetcode.com/problems/binary-search-tree-iterator/
+
 
 
